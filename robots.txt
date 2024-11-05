@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ikejeobu.github.io/bcv/sitemap_index.txt
+Sitemap: https://ikejeobu.github.io/faR/sitemap_index.txt
+Sitemap: https://ikejeobu.github.io/qLt/sitemap_index.txt
+Sitemap: https://ikejeobu.github.io/wUK/sitemap_index.txt
